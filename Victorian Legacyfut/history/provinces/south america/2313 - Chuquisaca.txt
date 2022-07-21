@@ -1,0 +1,23 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = SAS
+trade_goods = wool
+life_rating = 35
+1913.1.1 = {
+	state_building = {
+		level = 2
+		building = telephone_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = electric_gear_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = steel_factory
+		upgrade = yes
+	}
+}

@@ -1,0 +1,430 @@
+#Sphere of Influence
+HUN = {	
+	value = 100
+	level = 5
+	influence_value = 25
+}
+
+BAD = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAV = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+WUR = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+SAX = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+KRA = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
+SER = {
+	value = 75
+	level = 2
+	influence_value = 25
+}
+
+SAR = {
+	value = 50
+	level = 2
+	influence_value = 25
+}
+
+PAP = {
+	value = 125
+	level = 3
+	influence_value = 25
+}
+
+SWI = {
+	value = 125
+	level = 3
+	influence_value = 25
+}
+
+PAR = {
+	value = 100
+	level = 5
+}
+
+MOD = {
+	value = 100
+	level = 5
+	influence_value = 25
+}
+
+TUS = {
+	value = 75
+	level = 5
+	influence_value = 25
+}
+
+LUC = {
+	value = 75
+	level = 5
+	influence_value = 25
+}
+
+DEN = {
+	value = 55
+	level = 1
+} 
+
+PRU = {
+	value = 125
+}
+
+RUS = {
+	value = 200
+}
+
+ANH = {
+	value = -150
+	level = 0
+}
+
+leader = {
+	name = "Josef Radetzky"
+	date = 1805.1.1
+	type = land
+	personality = defence_3.1
+	background = attack_3.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Julius von Haynau"
+	date = 1835.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_2.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "von Mittrowitz-Nettolitzky"
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Hermann von Hess"
+	date = 1834.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_2.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "d’Aspre und Hoobreuck"
+	date = 1832.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Alfred von Windischgraetz"
+	date = 1826.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Erzherzog Albrecht"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Paolucci delle Roncole"
+	date = 1824.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+#Army
+
+army = {
+	name = "Mob Stack"
+	location = 622
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 619
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 727
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 631
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 729
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 771
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 618
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 630
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 773
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 728
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 627
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 952
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 705
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 630
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 631
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 626
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 702
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 628
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 730
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 768
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 624
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 621
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 953
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 625
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 612
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 629
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 614
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 620
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 619
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 714
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 622
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 951
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 626
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 613
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 624
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 731
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 625
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 616
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 617
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 621
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 625
+	}
+}
+
+navy = {
+	name = "Austrian Imperial Navy"
+	location = 729
+	ship = {
+		name= "1. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Klipperflottille"
+		type = clipper_transport
+	}
+
+}
+

@@ -1,0 +1,18 @@
+song = {
+	name = "hava_nagila.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+song = {
+	name = "aint_i_right.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

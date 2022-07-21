@@ -1,0 +1,721 @@
+ANH = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BRA = {
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BRE = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+COB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+FRM = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+HAM = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HAN = {
+
+	value = 125
+
+	level = 3
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HEK = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HES = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+KRA = {
+
+	value = 0
+	level = 1
+	influence_value = 0
+
+}
+LIP = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+LUB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+LUX = {
+
+	value = 125
+
+	level = 3
+
+	influence_value = 25
+
+}
+
+MEC = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+MEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+NAS = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+OLD = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+SAX = {
+
+	value = 50
+
+	level = 3
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+WEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+
+BAV = {
+
+	value = 75
+	level = 3
+	influence_value = 25
+
+	military_access = yes
+}
+
+
+BAD = {
+
+	value = 100
+
+	level = 3
+
+	influence_value = 20
+
+	military_access = yes
+
+}
+
+
+WUR = {
+	value = 100
+	level = 3
+	influence_value = 20
+	military_access = yes
+}
+
+AUS = {
+	value = 150
+}
+
+RUS = {
+	value = 125
+}
+
+FRA = {
+	value = -25
+}
+
+DEN = {
+
+	value = 49
+	level = 4
+	influence_value = 25
+
+}
+
+
+leader = {
+	name = "von Zieten"
+	date = 1813.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_3.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Hermann von Boyen"
+	date = 1814.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_2.1
+	prestige = 0
+}
+
+leader = {
+	name = "Wilhelm von Krauseneck"
+	date = 1814.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0
+}
+
+leader = {
+	name = "Baron von Müffling"
+	date = 1813.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_1.1
+	prestige = 0
+}
+
+leader = {
+	name = "August von Colomb"
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_3.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "von Grolman"
+	date = 1816.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0
+}
+
+leader = {
+	name = "Rühle von Lilienstern"
+	date = 1819.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0
+}
+
+leader = {
+	name = "zu Dohna-Schlobitten"
+	date = 1820.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0
+}
+
+leader = {
+	name = "Heinrich von Wrangel"
+	date = 1823.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_2.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Friedrich Graf von Wrangel"
+	date = 1836.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_3.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Eduard Vogel von Falckenstein"
+	date = 1836.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_2.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Albrecht von Roon"
+	date = 1836.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_4.1
+	prestige = 0.2
+}
+
+#Army
+
+army = {
+	name = "Mob Stack"
+	location = 551
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 553
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 557
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 554
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 577
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 2561
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 582
+	}
+}
+
+army = {
+	name = "Mob Stack"
+	location = 550
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 582
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 584
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 682
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 682
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 682
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 684
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 546
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 684
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 684
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 685
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 685
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 549
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 696
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 552
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 693
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 693
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 695
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 695
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 698
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 698
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 556
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 547
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 546
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 679
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 680
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 548
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 696
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 681
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 578
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 580
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 580
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 581
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 575
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 576
+	}
+}
+army = {
+	name = "Mob Stack"
+	location = 687
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 578
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 552
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 549
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 687
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 681
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 550
+	}
+}
+army = {
+	name = "30 Stack"
+	location = 549
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 551
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 699
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 699
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 700
+	}
+
+	regiment = {
+		name= "Artillery"
+		type = artillery
+		home = 692
+	}
+
+	regiment = {
+		name = "Artillery"
+		type = artillery
+		home = 594
+	}
+
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 701
+	}
+
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 701
+	}
+
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 537
+	}
+
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 546
+	}
+}
+
+navy = {
+	name = "Königlich Preußische Marine"
+	location = 690
+	ship = {
+		name= "1. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Klipperflottille"
+		type = clipper_transport
+	}
+
+}
+
